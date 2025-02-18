@@ -12,12 +12,12 @@
 
 # Picture 1
 
-![measuring wheel and construction foreman](https://github.com/edorejel/electrical_engineering/blob/main/Propert_Measuring_Tools/images/Screenshot%202025-02-18%20013328.png)
+![measuring wheel and construction foreman](https://github.com/edorejel/electrical_engineering/blob/main/Property_Measuring_Tools/images/Screenshot%202025-02-18%20013328.png)
 
 
 # Picture 2
 
-![property measuring wheel](https://github.com/edorejel/electrical_engineering/blob/main/Propert_Measuring_Tools/images/Screenshot%202025-02-18%20013248.png)
+![property measuring wheel](https://github.com/edorejel/electrical_engineering/blob/main/Property_Measuring_Tools/images/Screenshot%202025-02-18%20013248.png)
 
 
 
@@ -28,9 +28,9 @@
 
 
 # Picture 1
-![classic chalk reel](https://github.com/edorejel/electrical_engineering/blob/main/Propert_Measuring_Tools/images/Screenshot%202025-02-18%20014923.png)
+![classic chalk reel](https://github.com/edorejel/electrical_engineering/blob/main/Property_Measuring_Tools/images/Screenshot%202025-02-18%20014923.png)
 
 # Picture 2
 
-![classic chalk reel in use](https://github.com/edorejel/electrical_engineering/blob/main/Propert_Measuring_Tools/images/Screenshot%202025-02-18%20015135.png)
+![classic chalk reel in use](https://github.com/edorejel/electrical_engineering/blob/main/Property_Measuring_Tools/images/Screenshot%202025-02-18%20015135.png)
 
