@@ -10,5 +10,5 @@
 
 # Measuring Wheel - Property Measuring Tool
 
-!(measuring wheel)[https://github.com/edorejel/electrical_engineering/blob/main/Propert_Measuring_Tools/images/Screenshot%202025-02-18%20013328.png]
+![measuring wheel](https://github.com/edorejel/electrical_engineering/blob/main/Propert_Measuring_Tools/images/Screenshot%202025-02-18%20013328.png)
 
