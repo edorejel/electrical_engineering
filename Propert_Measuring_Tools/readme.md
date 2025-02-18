@@ -18,3 +18,19 @@
 # Picture 2
 
 ![property measuring wheel](https://github.com/edorejel/electrical_engineering/blob/main/Propert_Measuring_Tools/images/Screenshot%202025-02-18%20013248.png)
+
+
+
+# Classic Chalk Reel
+
+- After measuring your property, and laying a foundation, you will need the "classic chalk reel" that is used in woodworking and carpentry. It measures accurate straight lines and is easy to use.
+- - Amazon link for classic chalk wheel: [classic chalk wheel](https://www.amazon.com/Strait-Line-1932871-IRWIN-Classic-Chalk/dp/B016TTLD74/ref=pd_ci_mcx_pspc_dp_2_i_5?pd_rd_w=3R5WO&content-id=amzn1.sym.cd152278-debd-42b9-91b9-6f271389fda7&pf_rd_p=cd152278-debd-42b9-91b9-6f271389fda7&pf_rd_r=MVEAGF7C49J97HRMEVP2&pd_rd_wg=OIgPQ&pd_rd_r=0194050f-3bcb-431a-ac54-58d40270f794&pd_rd_i=B016TTLD74)
+
+
+# Picture 1
+![classic chalk reel](https://github.com/edorejel/electrical_engineering/blob/main/Propert_Measuring_Tools/images/Screenshot%202025-02-18%20014923.png)
+
+# Picture 2
+
+![classic chalk reel in use](https://github.com/edorejel/electrical_engineering/blob/main/Propert_Measuring_Tools/images/Screenshot%202025-02-18%20015135.png)
+
