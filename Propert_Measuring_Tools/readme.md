@@ -7,3 +7,8 @@
 - - all the way to the back, just in case you need to bring in construction equipment, or rennovate the property.
   - 
   
+
+# Measuring Wheel - Property Measuring Tool
+
+!(measuring wheel)[https://github.com/edorejel/electrical_engineering/blob/main/Propert_Measuring_Tools/images/Screenshot%202025-02-18%20013328.png]
+
