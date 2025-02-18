@@ -10,5 +10,11 @@
 
 # Measuring Wheel - Property Measuring Tool
 
-![measuring wheel](https://github.com/edorejel/electrical_engineering/blob/main/Propert_Measuring_Tools/images/Screenshot%202025-02-18%20013328.png)
+# Picture 1
 
+![measuring wheel and construction foreman](https://github.com/edorejel/electrical_engineering/blob/main/Propert_Measuring_Tools/images/Screenshot%202025-02-18%20013328.png)
+
+
+# Picture 2
+
+![property measuring wheel](https://github.com/edorejel/electrical_engineering/blob/main/Propert_Measuring_Tools/images/Screenshot%202025-02-18%20013248.png)
