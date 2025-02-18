@@ -7,7 +7,8 @@
 - - all the way to the back, just in case you need to bring in construction equipment, or rennovate the property.
   - For the front part of the property, then you have to know two measurements.
   - - The first measurement is to the front gate, but inside of your property line.
-    - The second measurement is to the front gate, but outside of your propety line, directly on the sidewalk, that makes the entrance into your driveway. The second measurement is good to know for construction and rennovation purposes, so that you can tell the construction foreman, how much room they have for equipment to lay the foundation.
+    - The second measurement is to the front gate, but outside of your propety line, directly on the sidewalk, that makes the entrance into your driveway.
+    - The second measurement is good to know for construction and rennovation purposes, so that you can tell the construction foreman, how much room they have for equipment to lay the foundation.
     - The construction crews will use the measurements, to safely enter and exit the driveway, when they bring in construction equipment, to the one foundation of any size.
     -  - The foundations may vary in size, to accommodate homes of various sizes, such as:
        -  two-story houses,
