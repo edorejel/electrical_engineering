@@ -19,7 +19,7 @@ A simple system to explore different ways of rennovating a large property. First
 - If you cannot see the car moving in the image below, please press play on the image, using your mouse or finger on your mobile device. The car should start to move.
 
 # Image 1 - A Car Rotating in the Circular Parking System
-- Rotating circular parking system in action.
+- Rotating circular parking system in action. Press play on the image, to see the circular rotating car parking rotate the vehicle in place.
 
 ![circular rotating car parking system](https://github.com/edorejel/electrical_engineering/blob/main/Home_Property_Design_Solution_System/images/rotating_car_parking_system.gif)
 
