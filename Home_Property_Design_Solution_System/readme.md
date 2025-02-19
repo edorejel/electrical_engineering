@@ -13,3 +13,7 @@ A simple system to explore different ways of rennovating a large property. First
    
 ![Invisible Car Parking System for Rental Property](https://github.com/edorejel/electrical_engineering/blob/main/Home_Property_Design_Solution_System/images/Screenshot%202025-02-19%20003115.png)
       
+
+# Circular Rotating Car Parking System for "Very Safe" Exit into Busy Streets
+- The circular rotating parking system is designed for properties that are small, and have limited mobility for cars. In that case, a circular rotating parking system can help the tenants park their cars, and safely exit the property on their way to work.
+
