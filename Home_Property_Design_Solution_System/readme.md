@@ -27,7 +27,8 @@ A simple system to explore different ways of rennovating a large property. First
 # Image 2 - A Car Parked on the Circular Parking System
 - For this image, if you look closely, you can see the rotating circular car parking system below.
 - - This type of system is perfect for large properties with limited parking, where the garage and the parking lot are on the bottom, and the houses or apartments are on top of the parking structure.
-  - Careful planning should be considered, to achieve the most maximum parking setup, for your property, but from the looks of this parking system, you can place three or four circular rotating parking systems on a driveway. - - The renters woudld drive into their parking spaces or the parking garage.
+  - Careful planning should be considered, to achieve the most maximum parking setup, for your property, but from the looks of this parking system, you can place three or four circular rotating parking systems on a driveway.
+  - - The renters woudld drive into their parking spaces or the parking garage.
   - Their cars will be secure.
 
 ![circular rotating parking system](https://github.com/edorejel/electrical_engineering/blob/main/Home_Property_Design_Solution_System/images/Screenshot%202025-02-19%20004528.png)
