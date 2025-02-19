@@ -16,6 +16,6 @@ A simple system to explore different ways of rennovating a large property. First
 
 # Circular Rotating Car Parking System for "Very Safe" Exit into Busy Streets
 - The circular rotating parking system is designed for properties that are small, and have limited mobility for cars. In that case, a circular rotating parking system can help the tenants park their cars, and safely exit the property on their way to work.
-
+- If you cannot see the car moving in the image below, please press play on the image, using your mouse or finger on your mobile device. The car should start to move.
 ![circular rotating car parking system](https://github.com/edorejel/electrical_engineering/blob/main/Home_Property_Design_Solution_System/images/rotating_car_parking_system.gif)
 
