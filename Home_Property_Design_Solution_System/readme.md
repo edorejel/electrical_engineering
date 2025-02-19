@@ -18,6 +18,13 @@ A simple system to explore different ways of rennovating a large property. First
 - The circular rotating parking system is designed for properties that are small, and have limited mobility for cars. In that case, a circular rotating parking system can help the tenants park their cars, and safely exit the property on their way to work.
 - If you cannot see the car moving in the image below, please press play on the image, using your mouse or finger on your mobile device. The car should start to move.
 
+# Image 1 - A Car Rotating in the Circular Parking System
+- Rotating circular parking system in action.
 
 ![circular rotating car parking system](https://github.com/edorejel/electrical_engineering/blob/main/Home_Property_Design_Solution_System/images/rotating_car_parking_system.gif)
 
+
+# Image 2 - A Car Parked on the Circular Parking System
+- For this image, if you look closely, you can see the rotating circular car parking system below. This type of system is perfect for large properties with limited parking, where the garage and the parking lot are on the bottom, and the houses or apartments are on top of the parking structure. Careful planning should be considered, to achieve the most maximum parking setup, for your property, but from the looks of this parking system, you can place three or four circular rotating parking systems on a driveway, and the renters woudld drive into their parking spaces or the parking garage. Their cars will be secure.
+
+![circular rotating parking system](https://github.com/edorejel/electrical_engineering/blob/main/Home_Property_Design_Solution_System/images/Screenshot%202025-02-19%20004528.png)
