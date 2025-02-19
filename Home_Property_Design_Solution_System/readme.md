@@ -2,7 +2,7 @@
 
 A simple system to explore different ways of rennovating a large property. First, the layout will be presented, in an easy to understand format. Then, other perspectives will be used, to build onto the entire layout, to see what is more advantageous to the property owner's fruition.
 
-# Simple Design Plan
+# Simple Design Plan - The First Component - A Parking System
 - A simple design plan starts with how you want the tenants to park their cars, and where you will park your car.
 - - There are several ways of achieving this, a few interesting ways of parking many cars on a small property are shown below, for example purposes:
  
