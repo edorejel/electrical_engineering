@@ -10,5 +10,5 @@ A simple system to explore different ways of rennovating a large property. First
   # Underground Invisible Car Parking for Many Cars on a Single Large Property
   - If you want to rennovate your large property, but include many newly built rental units, you can use an underground invisible car parking for extra parking.
   - - The parking system would be installed on the property, and the new tenants would be given access to the parking system by the property owner.
-!(Invisible Car Parking System for Rental Property)[https://github.com/edorejel/electrical_engineering/blob/main/Home_Property_Design_Solution_System/images/Screenshot%202025-02-19%20003115.png]
+![Invisible Car Parking System for Rental Property](https://github.com/edorejel/electrical_engineering/blob/main/Home_Property_Design_Solution_System/images/Screenshot%202025-02-19%20003115.png)
       
