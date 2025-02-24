@@ -27,6 +27,6 @@ Easy to identify motor system component #2.
 ![sample picture 4](https://github.com/edorejel/electrical_engineering/blob/main/Car_Turn-Table_Parking_System/Screenshot%202025-02-23%20160751.png)
 
 
-# Picture #5
+# Picture #5 Sample Picture
 
 ![sample picture](https://github.com/edorejel/electrical_engineering/blob/main/Car_Turn-Table_Parking_System/Screenshot%202025-02-23%20160833.png)
