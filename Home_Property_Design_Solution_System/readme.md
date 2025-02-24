@@ -5,7 +5,10 @@ A simple system to explore different ways of rennovating a large property. First
 # Simple Design Plan - The First Component - A Parking System
 - A simple design plan starts with how you want the tenants to park their cars, and where you will park your car.
 - - There are several ways of achieving this, a few interesting ways of parking many cars on a small property are shown below, for example purposes:
- 
+
+
+# Simple Information on the Car Turn-Table System
+- Go to this link, to find more information on the Car Turn-Table System: !(CAR TURN-TABLE SYSTEM INFORMATION)[https://github.com/edorejel/electrical_engineering/blob/main/Car_Turn-Table_Parking_System/readme.md]
 
   # Underground Invisible Car Parking for Many Cars on a Single Large Property
   - If you want to rennovate your large property, but include many newly built rental units, you can use an underground invisible car parking for extra parking.
