@@ -8,7 +8,7 @@ A simple system to explore different ways of rennovating a large property. First
 
 
 # Simple Information on the Car Turn-Table System
-- Go to this link, to find more information on the Car Turn-Table System: ![CAR TURN-TABLE SYSTEM INFORMATION](https://github.com/edorejel/electrical_engineering/blob/main/Car_Turn-Table_Parking_System/readme.md)
+- Go to this link, to find more information on the Car Turn-Table System: [CAR TURN-TABLE SYSTEM INFORMATION](https://github.com/edorejel/electrical_engineering/blob/main/Car_Turn-Table_Parking_System/readme.md)
 
   # Underground Invisible Car Parking for Many Cars on a Single Large Property
   - If you want to rennovate your large property, but include many newly built rental units, you can use an underground invisible car parking for extra parking.
