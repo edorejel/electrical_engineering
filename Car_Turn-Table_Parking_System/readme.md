@@ -6,7 +6,24 @@ A preview of some pictures is shown below. The system is very easy to understand
 
 A property, typically, is to live in, and get in and out very easy, without worrying about parking or blocked driveways.
 
-# Picture #1
+# Picture #1 Sample Pictures 
+
+Easy to identify motor system.
+
+![sample picture](https://github.com/edorejel/electrical_engineering/blob/main/Car_Turn-Table_Parking_System/Screenshot%202025-02-23%20160708.png)
+
+# Picture #2 Sample Picture 
+
+
+![sample picture](https://github.com/edorejel/electrical_engineering/blob/main/Car_Turn-Table_Parking_System/Screenshot%202025-02-23%20160720.png)
+
+# Picture #3 Sample Picture
+
+![sample picture](https://github.com/edorejel/electrical_engineering/blob/main/Car_Turn-Table_Parking_System/Screenshot%202025-02-23%20160736.png)
+
+# Picture #4 Sample Picture
+
+![sample picture 4](https://github.com/edorejel/electrical_engineering/blob/main/Car_Turn-Table_Parking_System/Screenshot%202025-02-23%20160751.png)
 
 
 # Picture #5
