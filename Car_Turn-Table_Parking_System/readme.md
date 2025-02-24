@@ -8,3 +8,7 @@ A property, typically, is to live in, and get in and out very easy, without worr
 
 # Picture #1
 
+
+# Picture #5
+
+!(sample picture)[https://github.com/edorejel/electrical_engineering/blob/main/Car_Turn-Table_Parking_System/Screenshot%202025-02-23%20160833.png]
