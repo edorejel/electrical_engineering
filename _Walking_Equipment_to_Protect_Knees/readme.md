@@ -6,4 +6,4 @@ The following equipment will be useful when working on a Home Property Solution 
 - Workout Sports Knee Braces for Meniscus Tear, ACL & Arthritis Pain Relief 
 - Modvel Compression Knee Brace for Women & Men, 2-Pack Knee Brace for Running Knee Pain, Knee Support Compression Sleeve, Workout Sports Knee Braces for Meniscus Tear, ACL & Arthritis Pain Relief
 
-!(https://github.com/edorejel/electrical_engineering/blob/main/_Walking_Equipment_to_Protect_Knees/Screenshot%202025-02-28%20211435.png?raw=true)[https://github.com/edorejel/electrical_engineering/blob/main/_Walking_Equipment_to_Protect_Knees/Screenshot%202025-02-28%20211435.png?raw=true]
+![https://github.com/edorejel/electrical_engineering/blob/main/_Walking_Equipment_to_Protect_Knees/Screenshot%202025-02-28%20211435.png](https://github.com/edorejel/electrical_engineering/blob/main/_Walking_Equipment_to_Protect_Knees/Screenshot%202025-02-28%20211435.png)
