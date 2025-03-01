@@ -6,3 +6,8 @@ In the event that prolonged standing is required, there are alternatives, to kee
 # Sample Description and Image
 
 Standee Anti Fatigue Standing Mat, Padded Floor Mats for Standing- Thick for Support and Comfort, 20 x 30 x 7/8 in. - Designed for Office, Kitchen, Home or Cashier use- Ergonomic and Anti Stress Mat
+
+# Image 1
+
+![https://github.com/edorejel/electrical_engineering/blob/main/_Stress_Relief_Mat_for_Prolonged_Standing/Screenshot%202025-03-01%20152912.png](https://github.com/edorejel/electrical_engineering/blob/main/_Stress_Relief_Mat_for_Prolonged_Standing/Screenshot%202025-03-01%20152912.png)
+
