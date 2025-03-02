@@ -16,5 +16,6 @@ The following equipment will be useful when working on a Home Property Solution 
 - This piece of equipment, appears to provide support, by stabilizing the knees from the sides.
 - [Link on AMAZON](https://www.amazon.com/Decompression-Stabilizers-Effectively-Tendinitis-Compression/dp/B092QRWMY1/ref=sr_1_8?dib=eyJ2IjoiMSJ9.IDkR72U2uXSnWIoLaAkiQqAcmtuoy3H3hRJv57XRjU-K30VXfy0P7e8YGjKecF7hCqbO1Fgxym0p14TfzyHyOseG__JPvAdNGuCMIwimw6cjJ8tvh86t2Mz_tMTfW5bCjWBV26iIAWes6i7mCCFiTHpXzVvnwPgw8dzrw0KxNgHyLHijwBx7ylhbyisnQ0lPtxKsCZNVT8-V5oeMULpXtWU_ID4tmqFv_TgZOafNs_B8HAxfHD-XL2pX07RUbdIyjIa11AE2cMkyWzvlKwV1Ds8ACwhzf_KL5S7KUL-cQC7Mk2hYXjxFq-5esNOplmwAACZ7GBA_wNzzT03o746mF7Z5coL3-kulPzuTHfrsF8QY37RdbEPNKFxPOKOA-LgaQTR_HG8BdrEcDrEFKdEu3XY_MtOzS9yWc4IyTvZqNWKR_fYIJGG9SQ-6scHniQnA.T2dvj8j2Zdm0JQTQxoKdux-w8vvCFWoQdqPCgcLD7uA&dib_tag=se&keywords=knee%2Bbrace%2Bfor%2Belderly&qid=1740957882&sr=8-8&th=1)
 
-  
+
+  ![https://github.com/edorejel/electrical_engineering/blob/main/_Walking_Equipment_to_Protect_Knees/Screenshot%202025-03-02%20152818.png](https://github.com/edorejel/electrical_engineering/blob/main/_Walking_Equipment_to_Protect_Knees/Screenshot%202025-03-02%20152818.png)
   
