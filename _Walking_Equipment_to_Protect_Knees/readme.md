@@ -12,3 +12,7 @@ The following equipment will be useful when working on a Home Property Solution 
 
 # Knee Support for Excessive Standing or Regular Support Example #2
 
+- Metal steel plates are designed on both sides of the knee pads to provide stable support for the knee joint, reduce knee pressure, and provide excellent muscle support for various sports such as mountain climbing, basketball, football, tennis or fitness. Our knee brace is a good choice for preventing injuries.
+- This piece of equipment, appears to provide support, by stabilizing the knees from the sides.
+
+  
