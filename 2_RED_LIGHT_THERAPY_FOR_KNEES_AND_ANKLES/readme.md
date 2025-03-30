@@ -9,8 +9,13 @@ However, both types of therapies can be used whenever you feel your knees and an
 Usually, the red light therapy last for only 30 minutes, and this can help save you medical bills, and doctor visits.
 
 # Picture 1 Red Light Therapy for Knees
+![red light therapy for knees][(https://github.com/edorejel/electrical_engineering/blob/main/2_RED_LIGHT_THERAPY_FOR_KNEES_AND_ANKLES/Screenshot%202025-03-29%20210503.png)
 
 
-!(red light therapy for knees)[https://github.com/edorejel/electrical_engineering/blob/main/2_RED_LIGHT_THERAPY_FOR_KNEES_AND_ANKLES/Screenshot%202025-03-29%20210503.png]
+# Picture 2 Red Light Therapy for Ankles
+
+
+
+
 
 
