@@ -14,6 +14,8 @@ Usually, the red light therapy last for only 30 minutes, and this can help save 
 
 # Picture 2 Red Light Therapy for Ankles
 
+![red light therapy for ankles](https://github.com/edorejel/electrical_engineering/blob/main/2_RED_LIGHT_THERAPY_FOR_KNEES_AND_ANKLES/Screenshot%202025-03-29%20210553.png)
+
 
 
 
