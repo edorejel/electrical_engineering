@@ -25,3 +25,14 @@ Usually, the red light therapy last for only 30 minutes, and this can help save 
 https://www.amazon.com/Brace-Foot-Accelerated-Recovery-Improved-Circulation-Near/dp/B0BYPFGYFJ?th=1
 
 
+# Picture 3 Red Light Therapy For Knees
+
+
+
+
+
+- Visit this Amazon link, to find red light therapy pads for knees.
+
+  https://www.amazon.com/QUINEAR-Compression-Arthritis-Circulation-Intensities/dp/B08DFF2283?pd_rd_w=3LROL&content-id=amzn1.sym.ea1d9533-fbb7-4608-bb6f-bfdceb6f6336&pf_rd_p=ea1d9533-fbb7-4608-bb6f-bfdceb6f6336&pf_rd_r=3MD3RYM1RRFE434X2CZ8&pd_rd_wg=eOvSY&pd_rd_r=45ae98ee-2bb6-4966-92dd-b8f5a8642c18&ref_=sspa_dk_detail_1&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM&th=1
+
+  
