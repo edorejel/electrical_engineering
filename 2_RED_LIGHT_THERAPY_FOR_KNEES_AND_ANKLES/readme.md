@@ -28,7 +28,7 @@ https://www.amazon.com/Brace-Foot-Accelerated-Recovery-Improved-Circulation-Near
 # Picture 3 Red Light Therapy For Knees
 
 
-
+![red light therapy for knees](https://github.com/edorejel/electrical_engineering/blob/main/2_RED_LIGHT_THERAPY_FOR_KNEES_AND_ANKLES/Screenshot%202025-03-29%20212746.png)
 
 
 - Visit this Amazon link, to find red light therapy pads for knees.
