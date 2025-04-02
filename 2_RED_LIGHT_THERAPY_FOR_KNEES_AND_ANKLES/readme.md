@@ -17,7 +17,7 @@ Usually, the red light therapy last for only 30 minutes, and this can help save 
 
 # Most Recent Picture - Knees to Help with Walking, Reduce Knee Pain
 
-![SPRING BRACES FOR KNEES WALKING]([INSERT IMAGE HERE](https://github.com/edorejel/electrical_engineering/blob/main/2_RED_LIGHT_THERAPY_FOR_KNEES_AND_ANKLES/Screenshot%202025-04-02%20124650.png)
+![SPRING BRACES FOR KNEES WALKING](https://github.com/edorejel/electrical_engineering/blob/main/2_RED_LIGHT_THERAPY_FOR_KNEES_AND_ANKLES/Screenshot%202025-04-02%20124650.png)
 
 - Visit this Amazon link, to find spring braces for your kneeds, to help with walking: https://www.amazon.com/2U2O-Protection-Booster-Stabilizer-Training/dp/B08FB4WNQ3/ref=pd_lutyp_ci_mcx_mr_typ_d_d_sccl_1_5/146-2280734-8085761?pd_rd_w=DLDpr&content-id=amzn1.sym.6d5cc53c-d973-4a51-b7c1-260d7f897f5a:amzn1.symc.823e1c6a-2574-48c0-adf8-391b275ad0d6&pf_rd_p=6d5cc53c-d973-4a51-b7c1-260d7f897f5a&pf_rd_r=TY0TRMYHJ7CFTAMJKBXH&pd_rd_wg=Wo3Lj&pd_rd_r=379eda13-ee3e-4e83-9b42-a048365d1a2f&pd_rd_i=B08FB4WNQ3&psc=1
 
