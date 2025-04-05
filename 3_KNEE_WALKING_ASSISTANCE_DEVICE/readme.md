@@ -6,3 +6,6 @@ This device has springs on it, that may help ease the pain on your knees that ca
 # Device for Knees with Springs - Picture #1
 ![knee device picture](https://github.com/edorejel/electrical_engineering/blob/main/3_KNEE_WALKING_ASSISTANCE_DEVICE/Screenshot%202025-04-04%20182513.png)
 
+# Device for Knees with Springs - Picture #2
+
+![knee device image](https://github.com/edorejel/electrical_engineering/blob/main/3_KNEE_WALKING_ASSISTANCE_DEVICE/Screenshot%202025-04-04%20183025.png)
